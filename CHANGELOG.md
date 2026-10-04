@@ -5,6 +5,12 @@
 形式は [Keep a Changelog](https://keepachangelog.com/ja/1.1.0/) に準拠し、
 バージョン管理は [Semantic Versioning](https://semver.org/lang/ja/) に従います。
 
+## [0.2.6] - 2026-10-05
+
+### 変更
+
+- サイドパネル・ポップアップ・オプションページのHTMLの文字コード宣言を、HTML Standard の記述にならって小文字の `<meta charset="utf-8">` に統一
+
 ## [0.2.5] - 2026-06-30
 
 ### 修正
